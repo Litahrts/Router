@@ -1,0 +1,19 @@
+{
+  "name": "litharts/router",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Peter",
+      "email": "pvajda123qwe@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "minimum-stability" : "beta",
+  "autoload": {
+    "psr-0": {
+      "Router": "package/"
+    }
+  }
+}
